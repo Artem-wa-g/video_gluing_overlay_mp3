@@ -1,0 +1,6 @@
+/files/videos1/*
+/files/videos2/*
+/files/music/*
+.idea/
+/venv/
+result.mp4
